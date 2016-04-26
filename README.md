@@ -42,10 +42,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 See also the list of [contributors](https://github.com/FarcicalPopsicle/faunadex/contributors) who participated in this project.
 
-<!--## License-->
-
-<!--This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details-->
-
 ## Acknowledgments
 
 * Hack Reactor
